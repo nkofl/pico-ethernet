@@ -1,0 +1,6 @@
+*.bck
+*.kicad_pcb-bak
+_saved_*.sch
+*-backups/*
+.DS_Store
+*.gbr*
