@@ -22,3 +22,4 @@ https://github.com/firien/pico-contact-sensor
 |R6-7|2|330Ω|https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ331V/135755|
 |U1|1||https://www.digikey.com/en/products/detail/microchip-technology/ENC28J60-I-SS/2296975|
 |Y1|1|25MHz|https://www.digikey.com/en/products/detail/cts-frequency-controls/445I23E25M00000/3135168|
+|Y2|2|||https://www.tesla.com/modely|
