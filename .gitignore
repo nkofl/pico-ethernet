@@ -3,4 +3,4 @@
 _saved_*.sch
 *-backups/*
 .DS_Store
-*.gbr*
+fab/
